@@ -1,3 +1,6 @@
 [0319/183053.708:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [0319/183145.119:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
 [0319/183326.784:ERROR:prune_crash_reports.cc(34)] PruneCrashReportDatabase: Failed to get pending reports
+[0320/013638.698:ERROR:file_io_win.cc(161)] CreateFile C:\Users\TAMARA~1\AppData\Local\Temp\scoped_dir16232_26562\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0320/013643.777:ERROR:file_io_win.cc(170)] CreateFile C:\Users\TAMARA~1\AppData\Local\Temp\scoped_dir16232_26562\Crashpad\reports\adb2d9f8-f142-4d60-92a5-41c5395cdc8d.dmp: The system cannot find the path specified. (0x3)
+[0320/013645.925:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed

@@ -16,7 +16,7 @@ public class Test_OZ extends Oz {
         $(By.cssSelector(" li.landing-nav-list__item:first-child")).click();
         String a = $(By.cssSelector(".breadcrumbs__list.setanim li:last-child span")).getText();
         Assert.assertTrue(a.contains("Бестселлеры книг"));
-        System.out.println("test");
+        System.out.println("test123");
 
     }
 
